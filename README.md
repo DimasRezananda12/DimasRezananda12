@@ -8,8 +8,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DimasRezananda12&label=Profile+Views&color=6E57F7&style=flat" alt="profile views" />
-  <a href="www.linkedin.com/in/dimasrezananda">
+  <a href="https://www.linkedin.com/in/dimasrezananda">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/dimasrznd?igsh=MWtkNW40cHZ2dW56OQ==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20ML-6E57F7?style=flat" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=flat" />
@@ -95,10 +98,15 @@ I am a highly motivated 3rd-year Information Technology student at Universitas B
 ## ☕ Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/dimasrezananda">
+  <a href="https://www.linkedin.com/in/dimasrezananda">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/dimasrznd?igsh=MWtkNW40cHZ2dW56OQ==">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
 
 <p align="center">
   <i>Always open to interesting conversations, collaborations, and new challenges. Let's talk about Data Science, Machine Learning, or Reality Club!</i>
