@@ -86,7 +86,7 @@ I am a highly motivated 3rd-year Information Technology student at Universitas B
 </p>
 
 <p align="center">
-  <b>Penikmat Reality Club 🎬</b><br/><br/>
+  <b>Reality Club Fans</b><br/><br/>
   <img src="assets/Reality Club.jpg" width="350" alt="Reality Club Cover" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 </p>
 
